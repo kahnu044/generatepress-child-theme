@@ -55,5 +55,5 @@ add_action('wp_enqueue_scripts', 'your_theme_name_child_assets', 99);
 
 /* Apply style for Gutenberg editor */
 add_action('enqueue_block_editor_assets', function () {
-    wp_enqueue_style('your_theme_name_gblock_css', get_stylesheet_directory_uri() . "/assets/css/block-editor.css", false, THEME_VERSION, 'all');
+    wp_enqueue_style('your_theme_name_gblock_css', get_stylesheet_directory_uri() . "/assets/css/block-editor-style.css", false, THEME_VERSION, 'all');
 });
