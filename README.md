@@ -6,6 +6,12 @@ This is a child theme for the [GeneratePress](https://generatepress.com/) WordPr
 - Inherits all functionality and styling from the GeneratePress theme.
 - Add your own customizations without affecting the parent theme.
 
+## Prerequisites
+
+1. **GeneratePress Parent Theme**:
+   - This child theme requires the [GeneratePress](https://generatepress.com/) parent theme to be installed.
+   - You can download it from the [WordPress Theme Directory](https://wordpress.org/themes/generatepress/) or [GeneratePress website](https://generatepress.com/).
+
 ## Installation
 
 1. **Download the Child Theme:**
